@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-os.chdir("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ChemExpoDB_Breast_Cancer/Experiments/sensitivity_analysis/Experiment_1")
+os.chdir("Experiment_1")
 
 #read in CPDat Chemical List Presence dataset
 cedb=pd.read_csv("input/all_factotum_DTXSID_listPresence_2020-09-23.csv")
