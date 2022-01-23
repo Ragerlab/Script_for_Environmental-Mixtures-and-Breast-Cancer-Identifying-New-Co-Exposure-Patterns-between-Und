@@ -1,0 +1,15 @@
+chemotype,odds_ratio,fisher_pval,FP
+bond.C..O.N_carbamate,0,0.016843488,78
+bond.C..O.N_carboxamide_.NHR.,0,0.011494321,78
+bond.C..O.N_carboxamide_.NR2.,0,0.011494321,78
+bond.C..O.N_carboxamide_generic,0.23177199,1.32E-05,70
+bond.CX_halide_aromatic.X_dihalo_benzene_.1_3..,0.214640567,0.011044881,76
+bond.CX_halide_aromatic.X_halo_phenol_para,0,0.016843488,78
+bond.NC.O_aminocarbonyl_generic,0.23177199,1.32E-05,70
+ring.hetero_.5._N_triazole_.1_2_4..,0,0.029773929,78
+ring.hetero_.5._N_triazole_.1_3_4..,0,0.011494321,78
+ring.hetero_.5._Z_1_2_4_1_3_4.Z,0,0.006456857,78
+ring.hetero_.6._N_pyridine,0.12525023,0.007000344,77
+ring.hetero_.6._N_pyridine_generic,0.22037382,0.012907071,76
+ring.hetero_.6._Z_1.,0.274912992,0.012694509,75
+ring.hetero_.6._Z_1_3.,0.183702803,0.043509011,77
