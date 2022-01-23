@@ -14,8 +14,7 @@ The script then loops through the clusters identified of being of particular int
 -  cluster_6_prioritization.csv
 -  cluster_7_prioritization.csv
 -  cluster_9_prioritization.csv
-<br>
-<br>
+
 **top_tens_heatmaps.R**- This script reads in the above-listed prioritization results, and the clustered, organized presence/absence data from the *output* of *Experiment_2*, as well as the name/CASRN/DTXSID mapping from the *output* of *Experiment_1*. For each of the clusters, 1,4,5,6,7, and 9, a heatmap is made from the presence/absence data of the 10 highest ranking UCs in the cluster by the overall score found in the prioritization results. The relevant, highest correlated BCs are also shown in the heatmap. The heatmaps are saved in teh *figures* folder as
 
 - cluster_1_top_ten.png
