@@ -5,8 +5,6 @@ library(pheatmap)
 library(RColorBrewer)
 library(janitor)
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ChemExpoDB_Breast_Cancer/Experiments/sensitivity_analysis")
-
 
 #read in data
 all_chems <- read_csv("Experiment_2/output/all_chems_w_cluster.csv")
