@@ -1,4 +1,4 @@
-**cluster_of_interest_identification**- This script reads in
+**cluster_of_interest_identification.R**- This script reads in
 
 - The organized, clustered presence/absence dataframe **all_chems_w_cluster.csv** (*Experiment_2/output*)
 - The name/CASRN/DTXSID mapping **dtxsid_name_ref.csv** (*Experiment_1/output*)
