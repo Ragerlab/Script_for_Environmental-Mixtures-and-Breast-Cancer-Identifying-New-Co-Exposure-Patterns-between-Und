@@ -3,7 +3,6 @@ rm(list=ls())
 library(janitor)
 library(tidyverse)
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ChemExpoDB_Breast_Cancer/Experiments/sensitivity_analysis")
 
 #ToxPrint fingerprints from dashboard, split between 2 files due to the dashboard search limit
 fp1_dash <- read.csv("Experiment_3/input/CompToxChemicalsDashboard_all_ToxPrint_030721_pt1.csv")
