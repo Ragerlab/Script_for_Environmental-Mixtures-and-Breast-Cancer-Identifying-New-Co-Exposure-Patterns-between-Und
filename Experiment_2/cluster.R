@@ -12,9 +12,6 @@ library(xlsx)
 library(gridExtra)
 
 
-setwd("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ChemExpoDB_Breast_Cancer/Experiments/sensitivity_analysis")
-
-
 #read in data
 chems<-read.csv(paste(getwd(),"Experiment_1/output/presence_absence_binary_df.csv",sep="/"))
 
