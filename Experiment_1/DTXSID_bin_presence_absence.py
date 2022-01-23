@@ -2,7 +2,7 @@ import numpy as np
 import os
 import pandas as pd
 
-os.chdir("/Users/lkoval/IEHS Dropbox/Rager Lab/Lauren_Koval/LK_Lab_Notebook/Projects/ChemExpoDB_Breast_Cancer/Experiments/sensitivity_analysis/Experiment_1")
+os.chdir("Experiment_1")
 
 #read in DTXSID/keyword sets
 kw_sets=pd.read_csv("output/factotum_listPresence_092320_updated_chemnames_020621.csv", dtype=str)
