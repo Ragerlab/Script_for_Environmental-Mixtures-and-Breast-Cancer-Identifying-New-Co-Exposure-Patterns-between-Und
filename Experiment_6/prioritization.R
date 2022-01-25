@@ -44,7 +44,7 @@ opera <- opera %>% filter(INPUT!="INPUT") %>%
 
 
 #selected clusters of interest
-coi <- c(1,4,5,6,7,9)
+coi <- c(1,4,5,6,9)
 
 i <- 1
 #loop through and prioritize each of the clusters of interest
