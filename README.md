@@ -1,7 +1,7 @@
 # Script_for_Environmental-Mixtures-and-Breast-Cancer-Identifying-New-Co-Exposure-Patterns-between-Und
 Script for 'Environmental Mixtures and Breast Cancer: Identifying New Co-Exposure Patterns between Understudied vs Breast Cancer-Associated Chemicals using Chemical Inventory Informatics', in preparation for submission
 
-
+**
 Expermient_1: Data preparation and organization
 
 Experiment_2: Clustering Analysis
@@ -12,7 +12,7 @@ Experiment_4: Distributions of Enriched Features and Correlations
 
 Experiment_5: Cluster of Interest Identification
 
-Experiment_6: Prioritization and Visualization of Clusters of Interest
+Experiment_6: Prioritization and Visualization of Clusters of Interest**
 <br>
 
 
