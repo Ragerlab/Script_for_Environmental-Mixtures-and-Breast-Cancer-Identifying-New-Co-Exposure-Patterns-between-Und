@@ -14,10 +14,11 @@ This study aimed to to identify environmental chemicals in use inventories that 
 
 **Experiment_5: Cluster of Interest Identification**- This analysis examines each cluster of chemicals for the number of untested chemicals, the number of enriched features in untested chemicals, and the highest correlation value for physicochemical properties between an untested chemical and breast cancer associated chemical in the cluster. A summary table is produced, that when in conjunction with visual inspection of the heatmap from **Experiment_2**, informed which clusters of chemicals should be further evaluated. 
 
-**Experiment_6: Prioritization and Visualization of Clusters of Interest**- This analysis ranks the untested chemicals within each of cluster 1, 4, 5, 6, and 9. This ranking is based on a structural similarity score and physicochemical similiarity score which are derived for each untested chemical by comparing the number of enriched features and correlation values, respectively, to all other untested chemicals in the cluster. Heatmaps are made for the top ten ranking untested chemicals in each cluster showing use patterns along with co-occuring breast cancer associated chemicals.
+**Experiment_6: Prioritization and Visualization of Clusters of Interest**- This analysis ranks the untested chemicals within each of cluster 1, 4, 5, 6, and 9. This ranking is based on a structural similarity score and physicochemical similiarity score which are derived for each untested chemical by comparing the number of enriched features and correlation values, respectively, to all other untested chemicals in the corresponding cluster. Heatmaps are made for the top ten ranking untested chemicals in each cluster showing use patterns, along with co-occuring breast cancer associated chemicals.
 <br>
 
 
+An overview of exposure data curation:
 ![Study_Overview_Fig](https://user-images.githubusercontent.com/72747901/146388561-7cd49881-55c1-42b1-8065-e3d02796379a.png)
 
 
