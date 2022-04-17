@@ -1,7 +1,7 @@
 # Script_for_Environmental-Mixtures-and-Breast-Cancer-Identifying-New-Co-Exposure-Patterns-between-Und
 Script for 'Environmental Mixtures and Breast Cancer: Identifying New Co-Exposure Patterns between Understudied vs Breast Cancer-Associated Chemicals using Chemical Inventory Informatics'.
 
-This study aimed to to identify environmental chemicals in use inventories that co-occur and share properties with chemicals that have association with breast cancer, highlighting exposure combinations that may alter disease risk. The analysis was broken down into 6 distinct *in silico* experiments that sequentially build off each other. An overview of each experiment is supplied below, with further detail on each experiment provided in the corresponding folder above.
+This study aimed to identify environmental chemicals in use inventories that co-occur and share properties with chemicals that have association with breast cancer, highlighting exposure combinations that may alter disease risk. The analysis was broken down into 6 distinct *in silico* experiments that sequentially build off each other. An overview of each experiment is supplied below, with further detail on each experiment provided in the corresponding folder above.
 
 
 **Expermient_1: Data preparation and organization**- This analysis organizes the chemical dataset then bins the chemicals into three categories related to their association with breast cancer (breast cancer associated, not breast cancer associated, and untested in relation to breast cancer). Chemicals are then mapped to exposure data and the dataset is prepped for further analysis.
