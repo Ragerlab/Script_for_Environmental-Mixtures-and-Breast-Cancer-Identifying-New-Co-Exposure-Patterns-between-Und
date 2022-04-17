@@ -4,7 +4,7 @@ Script for 'Environmental Mixtures and Breast Cancer: Identifying New Co-Exposur
 This study aimed to to identify environmental chemicals in use inventories that co-occur and share properties with chemicals that have association with breast cancer, highlighting exposure combinations that may alter disease risk. The analysis was broken down into 6 distinct *in silico* experiments that sequentially build off each other. An overview of each experiment is supplied below, with further detail on each experiment provided in the corresponding folder above.
 
 
-**Expermient_1: Data preparation and organization**- This analysis organizes the chemical dataset then bins the chemicals into three categories related to their association with breast cancer (breast cancer associated, not breast cancer associated, and untested in relation to breast cancer). Chemicals are then mapped to exposure data and the dataset is prepared for further analysis.
+**Expermient_1: Data preparation and organization**- This analysis organizes the chemical dataset then bins the chemicals into three categories related to their association with breast cancer (breast cancer associated, not breast cancer associated, and untested in relation to breast cancer). Chemicals are then mapped to exposure data and the dataset is prepped for further analysis.
 
 **Experiment_2: Clustering Analysis**- This analysis groups the chemical data into clusters by use patterns derived from the exposure data. Hierearchical clustering is employed to generate these groupings, and a heatmap is produced to show the clusters and global landscape of the chemicals in the analysis.
 
