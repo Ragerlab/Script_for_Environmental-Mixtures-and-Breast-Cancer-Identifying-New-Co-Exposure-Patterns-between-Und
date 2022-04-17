@@ -16,9 +16,10 @@ This study aimed to to identify environmental chemicals in use inventories that 
 
 **Experiment_6: Prioritization and Visualization of Clusters of Interest**- This analysis ranks the untested chemicals within each of cluster 1, 4, 5, 6, and 9. This ranking is based on a structural similarity score and physicochemical similiarity score which are derived for each untested chemical by comparing the number of enriched features and correlation values, respectively, to all other untested chemicals in the corresponding cluster. Heatmaps are made for the top ten ranking untested chemicals in each cluster showing use patterns, along with co-occuring breast cancer associated chemicals.
 <br>
+<br>
+<br>
 
-
-An overview of exposure data curation:
+**An overview of exposure data curation:**
 <br>
 <br>
 ![Study_Overview_Fig](https://user-images.githubusercontent.com/72747901/146388561-7cd49881-55c1-42b1-8065-e3d02796379a.png)
